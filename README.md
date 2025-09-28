@@ -5,11 +5,18 @@ VPS 硬盘挂载与 SSH 管理脚本 (gz.sh)
 🚀 一键安装
 
 bash
+
     # 下载并执行安装脚本
-bash <(curl -fsSL https://raw.githubusercontent.com/aaapvq/wuxiaoting/main/gz.sh)
+
+    
+      bash <(curl -fsSL https://raw.githubusercontent.com/aaapvq/wuxiaoting/main/gz.sh)
 
 
-     📋 功能特点
+
+
+
+
+ 📋 功能特点
 
 ✅ 远程硬盘挂载管理
 
